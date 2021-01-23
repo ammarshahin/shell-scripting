@@ -1,0 +1,3 @@
+find . -type f -name "Apple" -delete
+ - find recurcivly starting from the root directory and file the matches the word apple, then delete it 
+ - we can replace the word apple with any word or a wildcard
