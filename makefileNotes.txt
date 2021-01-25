@@ -1,1 +1,0 @@
-"git reset file1 is used to unstage file1"  

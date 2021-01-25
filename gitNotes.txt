@@ -1,0 +1,8 @@
+"git config -l    is used to list all of the avilable configirations for the giit"  
+"git reset file1  is used to unstage file1"  
+"push -u     is a flag to pull the repo first then push it"  
+"git branch NewBranch     is used to create new branch"  
+"git checkout -b NewBranch     is used to create new branch and immeditly switch to it "  
+"git branch -d theBranch     is used to ask to delete a branch(soft ask)"  
+"git branch -D theBranch     is used to delete a branch(force delete)"  
+"git branch -m newNameBranch     is used to rename the current active branch"  
