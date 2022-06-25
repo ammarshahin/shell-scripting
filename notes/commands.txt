@@ -1,3 +1,21 @@
+"> operator overwrites all the current contents of the file"  
+
+">> appends to the last line in the file"  
+
+"cat file1.txt >> file2.txt will append file1 to the last line of the file2"  
+
+"the grep -r command searches for a specific string inside all of the files under the current directory"  
+
+"the grep -r -l lists all of the files"  
+
+"the -r flag means do the command recursively"  
+
+"command /? is an the window way for manual the command"  
+
+"tree /a lists the entire folder structure under the current directory"  
+
+"command1 && command2 is a way to execute to commands at the same time"  
+
 find . -type f -name "Apple" -delete
- - find recurcivly starting from the root directory and file the matches the word apple, then delete it 
+ - find recursively starting from the root directory and file the matches the word apple, then delete it 
  - we can replace the word apple with any word or a wildcard
