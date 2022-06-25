@@ -21,7 +21,9 @@ read -p "Enter your name: " NAME
 if [ $NAME == John ] 
 then # the "then" keyword must be in a new line
 echo his name is $NAME
+elif [ $NAME == Ammar ]
+then
+echo his name is $NAME
 else 
 echo his name is Not John
 fi
-
